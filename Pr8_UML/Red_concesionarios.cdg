@@ -13,7 +13,7 @@
       <Constructors>
         <Constructor visibility="public">
           <Argument type="String" name="nombre_fabrica"/>
-          <Argument type="date" name="fecha_creacion"/>
+          <Argument type="int" name="fecha_creacion"/>
           <Argument type="String" name="localizacion"/>
           <Argument type="int" name="n_fabrica"/>
         </Constructor>
