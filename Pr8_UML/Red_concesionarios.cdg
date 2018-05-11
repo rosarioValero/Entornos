@@ -5,7 +5,7 @@
     <Class name="Fabrica" package="" visibility="public" xPosition="423.0" yPosition="20.0">
       <Fields>
         <Field name="nombre_fabrica" type="String" visibility="private"/>
-        <Field name="fecha_creacion" type="date" visibility="private"/>
+        <Field name="fecha_creacion" type="int" visibility="private"/>
         <Field name="localizacion" type="String" visibility="private"/>
         <Field name="n_fabrica" type="int" visibility="private"/>
         <Field name="lista_concesionarios" type="ArrayList&lt;Concesionario&gt;" visibility="private"/>
